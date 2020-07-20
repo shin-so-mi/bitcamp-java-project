@@ -1,5 +1,5 @@
 
-package com.eomcs.pms.App;
+package com.eomcs.pms;
 
 public class App2 {
   public static void main(String[] args) {
